@@ -1,7 +1,7 @@
 # T_Emblemy Book Store Website
 
 This is the very first website I ever made, it was for a university assignment for **Website Design & Development**.
-It can be accessed on [here](https://loicfred.github.io/temblemy/books1.html)
+It can be accessed on [GitHub pages](https://loicfred.github.io/temblemy/books1.html).
 
 ## Main page
 This is the first page user sees when entering the website.
