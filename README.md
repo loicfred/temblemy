@@ -3,6 +3,10 @@
 This is the very first website I ever made, it was for a university assignment for **Website Design & Development**.
 It can be accessed on [GitHub pages](https://loicfred.github.io/temblemy/books1.html).
 
+**Applied Skills:**
+- HTML, CSS, JS
+- Front-End Development
+
 ## Main page
 This is the first page user sees when entering the website.
 
